@@ -1,0 +1,9 @@
+EmployeeID,Name,Department,PerformanceScore
+101,Alice,HR,85
+102,Bob,IT,90
+103,Charlie,IT,NaN
+104,David,Finance,78
+105,Eva,HR,88
+106,Frank,Finance,92
+107,Grace,IT,84
+108,Helen,HR,
